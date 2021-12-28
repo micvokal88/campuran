@@ -1,1 +1,160 @@
 
+#EXTM3U
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",THRILL
+http://iptvid.my.id/thrill.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",LIFETIME
+http://iptvid.my.id/lifetime.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",METRO TV
+http://iptvid.my.id/metrotv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",CN
+http://iptvid.my.id/cn.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",DENS
+http://iptvid.my.id/dens.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",DMWRK
+http://iptvid.my.id/drmwrk.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",EATGO
+http://iptvid.my.id/eatgo.m3u8
+#EXTINF:-1  group-title="RELIGI" tvg-logo="http://127.0.0.1/",ALQURAN
+http://iptvid.my.id/alquran.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",NET
+http://iptvid.my.id/net.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",ANTARA
+http://iptvid.my.id/antara.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",INDOSIAR
+http://iptvid.my.id/indosiar.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",SCTV
+http://iptvid.my.id/sctv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",INEWS
+http://iptvid.my.id/inews.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",BALI TV
+http://iptvid.my.id/balitv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",KOMPAS
+http://iptvid.my.id/kompas.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",RTV
+http://iptvid.my.id/rtv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",JTV
+http://iptvid.my.id/jtv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",NUSANTARA
+http://iptvid.my.id/nusantara.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",TRANS TV
+http://iptvid.my.id/transtv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",TRANS 7
+http://iptvid.my.id/trans7.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",INDONESIANA
+http://iptvid.my.id/indonesiana.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",JAK TV
+http://iptvid.my.id/jaktv.m3u8
+#EXTINF:-1  group-title="LOKAL" tvg-logo="http://127.0.0.1/",DAAI
+http://iptvid.my.id/daai.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",MY TV
+http://iptvid.my.id/mytv.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",ATV
+http://iptvid.my.id/atv.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",MYCA
+http://iptvid.my.id/myca.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",MYFC
+http://iptvid.my.id/myfc.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",MYCN
+http://iptvid.my.id/mycn.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",AXN
+http://iptvid.my.id/axn.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",GALAXY
+http://iptvid.my.id/glx.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",GALAXY PREMIUM
+http://iptvid.my.id/glxprem.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",HITS
+http://iptvid.my.id/hits.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",HITS MOVIE
+http://iptvid.my.id/hitsmovie.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",KIX
+http://iptvid.my.id/kix.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",PARAMOUNT
+http://iptvid.my.id/paramount.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",SONY
+http://iptvid.my.id/sone.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",TVN
+http://iptvid.my.id/tvn.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",TVN MOVIE
+http://iptvid.my.id/tvnmovie.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",CHINESE DRAMA
+http://iptvid.my.id/chinesedrm.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",WARNER BROS
+http://iptvid.my.id/wrnr.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",CINEMA WORLD
+http://iptvid.my.id/cnmwrld.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",CINEMA EROPA
+http://iptvid.my.id/c_europe.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",CINEMA INDONESIA
+http://iptvid.my.id/c_indonesia.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",CELESTIAL
+http://iptvid.my.id/clstl.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",ZEEB
+http://iptvid.my.id/zeeb.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",IMC
+http://iptvid.my.id/imc.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",FLIX
+http://iptvid.my.id/flik.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",INSERT
+http://iptvid.my.id/insert.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",DUNIA LAIN
+http://iptvid.my.id/dnln.m3u8
+#EXTINF:-1  group-title="MOVIE" tvg-logo="http://127.0.0.1/",BIOSKOP INDONESIA
+http://iptvid.my.id/biosid.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",SGEM
+http://iptvid.my.id/sgem.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",AFC
+http://iptvid.my.id/afc.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",ROCK
+http://iptvid.my.id/rock.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",ROCK EXTREME
+http://iptvid.my.id/rockext.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",KBSW
+http://iptvid.my.id/kbsw.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",K PLUS
+http://iptvid.my.id/kplus.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",NHK WORLD
+http://iptvid.my.id/nhkw.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",TLC
+http://iptvid.my.id/tlc.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",FORMOSA
+http://iptvid.my.id/formosa.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",T STORM
+http://iptvid.my.id/t_storm.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",KUNGFU TV
+http://iptvid.my.id/kungfutv.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",PRAMBORS
+http://iptvid.my.id/prambors.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",MTV
+http://iptvid.my.id/mtv.m3u8
+#EXTINF:-1  group-title="MIXED" tvg-logo="http://127.0.0.1/",IKONSER
+http://iptvid.my.id/ikonser.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",NAT GEO
+http://iptvid.my.id/natgeo.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",NAT GEO WILD
+http://iptvid.my.id/ngwild.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",DISCOVERY CHANNEL
+http://iptvid.my.id/dsc.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",LINGUA
+http://iptvid.my.id/lingua.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",PANDA TV
+http://iptvid.my.id/pandatv.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",HISTORY
+http://iptvid.my.id/history.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",BLOOMBERG
+http://iptvid.my.id/bloomberg.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE" tvg-logo="http://127.0.0.1/",OUTDOOR
+http://iptvid.my.id/outdoor.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",ANIPLUS
+http://iptvid.my.id/aniplus.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",ANIMAX
+http://iptvid.my.id/animax.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",DAVINCI
+http://iptvid.my.id/davinci.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",DUNIA ANAK
+http://iptvid.my.id/duniaanak.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",HOREE
+http://iptvid.my.id/horee.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",NICKEL JUNIOR
+http://iptvid.my.id/nickjr.m3u8
+#EXTINF:-1  group-title="KIDS" tvg-logo="http://127.0.0.1/",NICKEL
+http://iptvid.my.id/nickelodeon.m3u8
